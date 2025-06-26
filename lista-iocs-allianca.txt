@@ -429,3 +429,4 @@ Aqui está a lista de IPs que você solicitou:
 165.227.117.153
 161.35.201.228
 137.184.1.220
+69.30.249.34
